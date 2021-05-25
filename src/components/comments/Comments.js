@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 
 import classes from './Comments.module.css';
 import NewCommentForm from './NewCommentForm';
