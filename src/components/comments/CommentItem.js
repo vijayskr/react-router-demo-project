@@ -1,3 +1,5 @@
+import React from 'react';
+
 import classes from './CommentItem.module.css';
 
 const CommentItem = (props) => {
